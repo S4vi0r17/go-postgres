@@ -1,0 +1,3 @@
+.env        # real credentials
+bin/        # production build output (go build -o ./bin/api)
+tmp/        # air dev binaries
